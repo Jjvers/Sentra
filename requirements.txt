@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic-settings
+asyncpg
+numpy
+scikit-learn
+joblib
+sentence-transformers
+openai
+python-dotenv
+langchain-text-splitters 
+requests 
+sentence-transformers
